@@ -146,7 +146,7 @@ Object {
     },
     "ControlPlaneWorkerNodesASG6A4B2360": Object {
       "Properties": Object {
-        "DesiredCapacity": "4",
+        "DesiredCapacity": "3",
         "LaunchConfigurationName": Object {
           "Ref": "ControlPlaneWorkerNodesLaunchConfig0AAF12B5",
         },
